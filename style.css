@@ -1,0 +1,33 @@
+.machine {
+    position: absolute;
+    left: 606px;
+    top: 170px;
+}
+
+#name {
+    font-family: 'Itim', cursive;
+    font-size: 46px;
+}
+
+#count {
+    font-size: 44px;
+    position: relative;
+    left: 92px;
+}
+
+.btn {
+    position: relative;
+    left: -46px;
+}
+
+.btn-danger {
+    width: 100px;
+}
+
+.btn-primary {
+    width: 100px;
+}
+
+.btn-success {
+    width: 100px;
+}
